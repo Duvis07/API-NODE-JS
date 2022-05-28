@@ -6,9 +6,6 @@
 ## 4. create ".env" file & set PORT=5000, MONGO_URI vars
 ## 5. Run project: node server
 
-# Mejoras
+# Link video presentacion
+https://drive.google.com/file/d/1Ajoh2vJXXAHoV0JnOEMVvawzUckErfSl/view?usp=sharinghttps://drive.google.com/file/d/1Ajoh2vJXXAHoV0JnOEMVvawzUckErfSl/view?usp=sharing
 
-## 1. Seguridad (login y token)
-## 2. Validaciones personalizadas (TODO)
-## 3. Validaciones con librería (Middleware)
-## 4. Clases JS
